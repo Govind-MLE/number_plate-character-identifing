@@ -32,7 +32,7 @@ Create a seperate datasets for number and alphabets letters under following form
              -0
 Train the dataset using the cnn.
 
-# extract number_plate using vision api and split the character in the plate
+# extract number_plate using vision api and split the characters in the plate
 split the each character in the number_plate and classify the img. Then insert the predicted values in a separte list for number and text. finally concatenate the two list and we get the characters as text.
 
 # why i am choosing this apporach 
