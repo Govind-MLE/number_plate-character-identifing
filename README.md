@@ -36,4 +36,5 @@ Train the dataset using the cnn.
 split the each character in the number_plate and classify the img. Then insert the predicted values in a separte list for number and text. finally concatenate the two list and we get the characters as text.
 
 # why i am choosing this apporach 
-Because sometimes the model can able to predict 5 as S and 8 as 3 and B etc. on my approach we can train and predict the letters as well as  numbers then concatenate into single formate. 
+Because sometimes the model can able to predict 5 as S and 8 as 3 and B etc. on my approach we can train and predict the letters as well as  numbers seprately 
+then concatenate into single format. 
