@@ -1,4 +1,4 @@
-# number_plate-character-identifing
+# number_plate-character-identifying
 Text detection in Indian number plate
 # Deep learning models for classify the alphabets and number
 Create a seperate datasets for number and alphabets letters under following format
