@@ -38,3 +38,17 @@ split the each character in the number_plate and classify the img. Then insert t
 # why i am choosing this apporach 
 Because sometimes the model can able to predict 5 as S and 8 as 3 and B etc. on my approach we can train and predict the letters as well as  numbers seprately 
 then concatenate into single format. 
+
+
+**Output**
+1/1 [==============================] - 0s 195ms/step
+1/1 [==============================] - 0s 93ms/step
+1/1 [==============================] - 0s 41ms/step
+1/1 [==============================] - 0s 40ms/step
+1/1 [==============================] - 0s 198ms/step
+1/1 [==============================] - 0s 58ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 31ms/step
+MB01AE8017
